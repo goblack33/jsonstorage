@@ -1,0 +1,3107 @@
+{
+  "consumption_data": [
+    {
+      "consumptionQuantity": "3.199",
+      "consumptionDateTime": "2021-01-01T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.415",
+      "consumptionDateTime": "2021-01-01T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.773",
+      "consumptionDateTime": "2021-01-01T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.851",
+      "consumptionDateTime": "2021-01-01T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.809",
+      "consumptionDateTime": "2021-01-01T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.771",
+      "consumptionDateTime": "2021-01-01T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.167",
+      "consumptionDateTime": "2021-01-01T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.709",
+      "consumptionDateTime": "2021-01-01T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.431",
+      "consumptionDateTime": "2021-01-01T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.535",
+      "consumptionDateTime": "2021-01-01T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.931",
+      "consumptionDateTime": "2021-01-01T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.85",
+      "consumptionDateTime": "2021-01-01T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.324",
+      "consumptionDateTime": "2021-01-01T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.323",
+      "consumptionDateTime": "2021-01-01T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.943",
+      "consumptionDateTime": "2021-01-01T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.487",
+      "consumptionDateTime": "2021-01-01T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.793",
+      "consumptionDateTime": "2021-01-01T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.838",
+      "consumptionDateTime": "2021-01-01T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.604",
+      "consumptionDateTime": "2021-01-01T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.89",
+      "consumptionDateTime": "2021-01-01T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.949",
+      "consumptionDateTime": "2021-01-01T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.004",
+      "consumptionDateTime": "2021-01-01T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.099",
+      "consumptionDateTime": "2021-01-01T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.069",
+      "consumptionDateTime": "2021-01-01T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.898",
+      "consumptionDateTime": "2021-01-02T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.898",
+      "consumptionDateTime": "2021-01-02T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.814",
+      "consumptionDateTime": "2021-01-02T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.252",
+      "consumptionDateTime": "2021-01-02T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.811",
+      "consumptionDateTime": "2021-01-02T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.511",
+      "consumptionDateTime": "2021-01-02T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.592",
+      "consumptionDateTime": "2021-01-02T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.349",
+      "consumptionDateTime": "2021-01-02T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.491",
+      "consumptionDateTime": "2021-01-02T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.041",
+      "consumptionDateTime": "2021-01-02T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.401",
+      "consumptionDateTime": "2021-01-02T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.319",
+      "consumptionDateTime": "2021-01-02T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.292",
+      "consumptionDateTime": "2021-01-02T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.778",
+      "consumptionDateTime": "2021-01-02T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.625",
+      "consumptionDateTime": "2021-01-02T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.916",
+      "consumptionDateTime": "2021-01-02T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.268",
+      "consumptionDateTime": "2021-01-02T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.968",
+      "consumptionDateTime": "2021-01-02T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.112",
+      "consumptionDateTime": "2021-01-02T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.541",
+      "consumptionDateTime": "2021-01-02T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.045",
+      "consumptionDateTime": "2021-01-02T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.928",
+      "consumptionDateTime": "2021-01-02T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.648",
+      "consumptionDateTime": "2021-01-02T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.837",
+      "consumptionDateTime": "2021-01-02T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.931",
+      "consumptionDateTime": "2021-01-03T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.47",
+      "consumptionDateTime": "2021-01-03T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.244",
+      "consumptionDateTime": "2021-01-03T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.798",
+      "consumptionDateTime": "2021-01-03T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.123",
+      "consumptionDateTime": "2021-01-03T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.483",
+      "consumptionDateTime": "2021-01-03T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.445",
+      "consumptionDateTime": "2021-01-03T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.085",
+      "consumptionDateTime": "2021-01-03T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.13",
+      "consumptionDateTime": "2021-01-03T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.31",
+      "consumptionDateTime": "2021-01-03T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.342",
+      "consumptionDateTime": "2021-01-03T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.117",
+      "consumptionDateTime": "2021-01-03T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.498",
+      "consumptionDateTime": "2021-01-03T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.533",
+      "consumptionDateTime": "2021-01-03T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.11",
+      "consumptionDateTime": "2021-01-03T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.021",
+      "consumptionDateTime": "2021-01-03T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.395",
+      "consumptionDateTime": "2021-01-03T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.756",
+      "consumptionDateTime": "2021-01-03T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.864",
+      "consumptionDateTime": "2021-01-03T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.571",
+      "consumptionDateTime": "2021-01-03T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.84",
+      "consumptionDateTime": "2021-01-03T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.213",
+      "consumptionDateTime": "2021-01-03T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.904",
+      "consumptionDateTime": "2021-01-03T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.937",
+      "consumptionDateTime": "2021-01-03T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.931",
+      "consumptionDateTime": "2021-01-04T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.958",
+      "consumptionDateTime": "2021-01-04T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.718",
+      "consumptionDateTime": "2021-01-04T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.714",
+      "consumptionDateTime": "2021-01-04T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.718",
+      "consumptionDateTime": "2021-01-04T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.718",
+      "consumptionDateTime": "2021-01-04T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.952",
+      "consumptionDateTime": "2021-01-04T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.996",
+      "consumptionDateTime": "2021-01-04T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.16",
+      "consumptionDateTime": "2021-01-04T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.423",
+      "consumptionDateTime": "2021-01-04T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.921",
+      "consumptionDateTime": "2021-01-04T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.034",
+      "consumptionDateTime": "2021-01-04T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.718",
+      "consumptionDateTime": "2021-01-04T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.249",
+      "consumptionDateTime": "2021-01-04T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.262",
+      "consumptionDateTime": "2021-01-04T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.136",
+      "consumptionDateTime": "2021-01-04T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.009",
+      "consumptionDateTime": "2021-01-04T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.251",
+      "consumptionDateTime": "2021-01-04T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.403",
+      "consumptionDateTime": "2021-01-04T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.042",
+      "consumptionDateTime": "2021-01-04T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.786",
+      "consumptionDateTime": "2021-01-04T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.962",
+      "consumptionDateTime": "2021-01-04T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.808",
+      "consumptionDateTime": "2021-01-04T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.072",
+      "consumptionDateTime": "2021-01-04T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.626",
+      "consumptionDateTime": "2021-01-05T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.712",
+      "consumptionDateTime": "2021-01-05T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.637",
+      "consumptionDateTime": "2021-01-05T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.69",
+      "consumptionDateTime": "2021-01-05T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.642",
+      "consumptionDateTime": "2021-01-05T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.638",
+      "consumptionDateTime": "2021-01-05T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.862",
+      "consumptionDateTime": "2021-01-05T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.82",
+      "consumptionDateTime": "2021-01-05T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.249",
+      "consumptionDateTime": "2021-01-05T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.3",
+      "consumptionDateTime": "2021-01-05T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.061",
+      "consumptionDateTime": "2021-01-05T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.514",
+      "consumptionDateTime": "2021-01-05T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.57",
+      "consumptionDateTime": "2021-01-05T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.71",
+      "consumptionDateTime": "2021-01-05T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.828",
+      "consumptionDateTime": "2021-01-05T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.909",
+      "consumptionDateTime": "2021-01-05T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.676",
+      "consumptionDateTime": "2021-01-05T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.725",
+      "consumptionDateTime": "2021-01-05T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.662",
+      "consumptionDateTime": "2021-01-05T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.429",
+      "consumptionDateTime": "2021-01-05T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.731",
+      "consumptionDateTime": "2021-01-05T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.989",
+      "consumptionDateTime": "2021-01-05T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.785",
+      "consumptionDateTime": "2021-01-05T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.846",
+      "consumptionDateTime": "2021-01-05T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.058",
+      "consumptionDateTime": "2021-01-06T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.51",
+      "consumptionDateTime": "2021-01-06T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.813",
+      "consumptionDateTime": "2021-01-06T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.279",
+      "consumptionDateTime": "2021-01-06T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.636",
+      "consumptionDateTime": "2021-01-06T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.636",
+      "consumptionDateTime": "2021-01-06T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.84",
+      "consumptionDateTime": "2021-01-06T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.72",
+      "consumptionDateTime": "2021-01-06T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.883",
+      "consumptionDateTime": "2021-01-06T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.853",
+      "consumptionDateTime": "2021-01-06T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.981",
+      "consumptionDateTime": "2021-01-06T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.187",
+      "consumptionDateTime": "2021-01-06T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.378",
+      "consumptionDateTime": "2021-01-06T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.066",
+      "consumptionDateTime": "2021-01-06T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.063",
+      "consumptionDateTime": "2021-01-06T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.313",
+      "consumptionDateTime": "2021-01-06T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.812",
+      "consumptionDateTime": "2021-01-06T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.773",
+      "consumptionDateTime": "2021-01-06T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.903",
+      "consumptionDateTime": "2021-01-06T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.316",
+      "consumptionDateTime": "2021-01-06T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.774",
+      "consumptionDateTime": "2021-01-06T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.424",
+      "consumptionDateTime": "2021-01-06T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.788",
+      "consumptionDateTime": "2021-01-06T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.022",
+      "consumptionDateTime": "2021-01-06T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.894",
+      "consumptionDateTime": "2021-01-07T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.79",
+      "consumptionDateTime": "2021-01-07T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.73",
+      "consumptionDateTime": "2021-01-07T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.698",
+      "consumptionDateTime": "2021-01-07T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.678",
+      "consumptionDateTime": "2021-01-07T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.769",
+      "consumptionDateTime": "2021-01-07T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.637",
+      "consumptionDateTime": "2021-01-07T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.65",
+      "consumptionDateTime": "2021-01-07T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.766",
+      "consumptionDateTime": "2021-01-07T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.89",
+      "consumptionDateTime": "2021-01-07T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.269",
+      "consumptionDateTime": "2021-01-07T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.601",
+      "consumptionDateTime": "2021-01-07T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.298",
+      "consumptionDateTime": "2021-01-07T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.876",
+      "consumptionDateTime": "2021-01-07T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.451",
+      "consumptionDateTime": "2021-01-07T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.255",
+      "consumptionDateTime": "2021-01-07T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.261",
+      "consumptionDateTime": "2021-01-07T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.21",
+      "consumptionDateTime": "2021-01-07T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.145",
+      "consumptionDateTime": "2021-01-07T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.407",
+      "consumptionDateTime": "2021-01-07T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.479",
+      "consumptionDateTime": "2021-01-07T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.707",
+      "consumptionDateTime": "2021-01-07T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.842",
+      "consumptionDateTime": "2021-01-07T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.004",
+      "consumptionDateTime": "2021-01-07T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.217",
+      "consumptionDateTime": "2021-01-08T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.69",
+      "consumptionDateTime": "2021-01-08T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.738",
+      "consumptionDateTime": "2021-01-08T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.891",
+      "consumptionDateTime": "2021-01-08T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.22",
+      "consumptionDateTime": "2021-01-08T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.24",
+      "consumptionDateTime": "2021-01-08T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.841",
+      "consumptionDateTime": "2021-01-08T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.415",
+      "consumptionDateTime": "2021-01-08T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.733",
+      "consumptionDateTime": "2021-01-08T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.935",
+      "consumptionDateTime": "2021-01-08T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.775",
+      "consumptionDateTime": "2021-01-08T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.837",
+      "consumptionDateTime": "2021-01-08T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.138",
+      "consumptionDateTime": "2021-01-08T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.663",
+      "consumptionDateTime": "2021-01-08T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.36",
+      "consumptionDateTime": "2021-01-08T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.641",
+      "consumptionDateTime": "2021-01-08T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.834",
+      "consumptionDateTime": "2021-01-08T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.279",
+      "consumptionDateTime": "2021-01-08T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.313",
+      "consumptionDateTime": "2021-01-08T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.991",
+      "consumptionDateTime": "2021-01-08T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.49",
+      "consumptionDateTime": "2021-01-08T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.695",
+      "consumptionDateTime": "2021-01-08T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.066",
+      "consumptionDateTime": "2021-01-08T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.793",
+      "consumptionDateTime": "2021-01-08T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.273",
+      "consumptionDateTime": "2021-01-09T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.65",
+      "consumptionDateTime": "2021-01-09T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.862",
+      "consumptionDateTime": "2021-01-09T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.871",
+      "consumptionDateTime": "2021-01-09T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.253",
+      "consumptionDateTime": "2021-01-09T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.829",
+      "consumptionDateTime": "2021-01-09T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.842",
+      "consumptionDateTime": "2021-01-09T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.805",
+      "consumptionDateTime": "2021-01-09T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.829",
+      "consumptionDateTime": "2021-01-09T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.748",
+      "consumptionDateTime": "2021-01-09T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.348",
+      "consumptionDateTime": "2021-01-09T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.816",
+      "consumptionDateTime": "2021-01-09T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.102",
+      "consumptionDateTime": "2021-01-09T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.279",
+      "consumptionDateTime": "2021-01-09T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.775",
+      "consumptionDateTime": "2021-01-09T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.816",
+      "consumptionDateTime": "2021-01-09T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.674",
+      "consumptionDateTime": "2021-01-09T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.617",
+      "consumptionDateTime": "2021-01-09T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.869",
+      "consumptionDateTime": "2021-01-09T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.03",
+      "consumptionDateTime": "2021-01-09T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.75",
+      "consumptionDateTime": "2021-01-09T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.356",
+      "consumptionDateTime": "2021-01-09T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.549",
+      "consumptionDateTime": "2021-01-09T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.934",
+      "consumptionDateTime": "2021-01-09T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.956",
+      "consumptionDateTime": "2021-01-10T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.978",
+      "consumptionDateTime": "2021-01-10T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.961",
+      "consumptionDateTime": "2021-01-10T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.873",
+      "consumptionDateTime": "2021-01-10T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.908",
+      "consumptionDateTime": "2021-01-10T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.045",
+      "consumptionDateTime": "2021-01-10T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.951",
+      "consumptionDateTime": "2021-01-10T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.91",
+      "consumptionDateTime": "2021-01-10T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.764",
+      "consumptionDateTime": "2021-01-10T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "9.65",
+      "consumptionDateTime": "2021-01-10T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.563",
+      "consumptionDateTime": "2021-01-10T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.017",
+      "consumptionDateTime": "2021-01-10T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.559",
+      "consumptionDateTime": "2021-01-10T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.381",
+      "consumptionDateTime": "2021-01-10T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.84",
+      "consumptionDateTime": "2021-01-10T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.782",
+      "consumptionDateTime": "2021-01-10T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.675",
+      "consumptionDateTime": "2021-01-10T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.254",
+      "consumptionDateTime": "2021-01-10T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.109",
+      "consumptionDateTime": "2021-01-10T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "10.621",
+      "consumptionDateTime": "2021-01-10T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.554",
+      "consumptionDateTime": "2021-01-10T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.421",
+      "consumptionDateTime": "2021-01-10T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.138",
+      "consumptionDateTime": "2021-01-10T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.128",
+      "consumptionDateTime": "2021-01-10T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.505",
+      "consumptionDateTime": "2021-01-11T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.968",
+      "consumptionDateTime": "2021-01-11T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.821",
+      "consumptionDateTime": "2021-01-11T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.82",
+      "consumptionDateTime": "2021-01-11T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.882",
+      "consumptionDateTime": "2021-01-11T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.999",
+      "consumptionDateTime": "2021-01-11T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.082",
+      "consumptionDateTime": "2021-01-11T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.181",
+      "consumptionDateTime": "2021-01-11T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.877",
+      "consumptionDateTime": "2021-01-11T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.11",
+      "consumptionDateTime": "2021-01-11T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.269",
+      "consumptionDateTime": "2021-01-11T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.452",
+      "consumptionDateTime": "2021-01-11T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.838",
+      "consumptionDateTime": "2021-01-11T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.561",
+      "consumptionDateTime": "2021-01-11T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.441",
+      "consumptionDateTime": "2021-01-11T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.201",
+      "consumptionDateTime": "2021-01-11T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.531",
+      "consumptionDateTime": "2021-01-11T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.705",
+      "consumptionDateTime": "2021-01-11T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.513",
+      "consumptionDateTime": "2021-01-11T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.052",
+      "consumptionDateTime": "2021-01-11T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.396",
+      "consumptionDateTime": "2021-01-11T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.379",
+      "consumptionDateTime": "2021-01-11T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.538",
+      "consumptionDateTime": "2021-01-11T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.486",
+      "consumptionDateTime": "2021-01-11T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.187",
+      "consumptionDateTime": "2021-01-12T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.755",
+      "consumptionDateTime": "2021-01-12T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.619",
+      "consumptionDateTime": "2021-01-12T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.598",
+      "consumptionDateTime": "2021-01-12T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.618",
+      "consumptionDateTime": "2021-01-12T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.624",
+      "consumptionDateTime": "2021-01-12T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.896",
+      "consumptionDateTime": "2021-01-12T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.755",
+      "consumptionDateTime": "2021-01-12T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.843",
+      "consumptionDateTime": "2021-01-12T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.976",
+      "consumptionDateTime": "2021-01-12T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.212",
+      "consumptionDateTime": "2021-01-12T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.134",
+      "consumptionDateTime": "2021-01-12T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.036",
+      "consumptionDateTime": "2021-01-12T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.562",
+      "consumptionDateTime": "2021-01-12T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.289",
+      "consumptionDateTime": "2021-01-12T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.82",
+      "consumptionDateTime": "2021-01-12T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.546",
+      "consumptionDateTime": "2021-01-12T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.073",
+      "consumptionDateTime": "2021-01-12T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.025",
+      "consumptionDateTime": "2021-01-12T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.709",
+      "consumptionDateTime": "2021-01-12T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.57",
+      "consumptionDateTime": "2021-01-12T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.229",
+      "consumptionDateTime": "2021-01-12T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.802",
+      "consumptionDateTime": "2021-01-12T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.221",
+      "consumptionDateTime": "2021-01-12T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.008",
+      "consumptionDateTime": "2021-01-13T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.974",
+      "consumptionDateTime": "2021-01-13T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.711",
+      "consumptionDateTime": "2021-01-13T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.659",
+      "consumptionDateTime": "2021-01-13T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.599",
+      "consumptionDateTime": "2021-01-13T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.941",
+      "consumptionDateTime": "2021-01-13T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.081",
+      "consumptionDateTime": "2021-01-13T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.517",
+      "consumptionDateTime": "2021-01-13T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.2",
+      "consumptionDateTime": "2021-01-13T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.356",
+      "consumptionDateTime": "2021-01-13T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.177",
+      "consumptionDateTime": "2021-01-13T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.208",
+      "consumptionDateTime": "2021-01-13T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.927",
+      "consumptionDateTime": "2021-01-13T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.114",
+      "consumptionDateTime": "2021-01-13T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.173",
+      "consumptionDateTime": "2021-01-13T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.039",
+      "consumptionDateTime": "2021-01-13T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.224",
+      "consumptionDateTime": "2021-01-13T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.53",
+      "consumptionDateTime": "2021-01-13T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.581",
+      "consumptionDateTime": "2021-01-13T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.532",
+      "consumptionDateTime": "2021-01-13T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.301",
+      "consumptionDateTime": "2021-01-13T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.327",
+      "consumptionDateTime": "2021-01-13T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.15",
+      "consumptionDateTime": "2021-01-13T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.138",
+      "consumptionDateTime": "2021-01-13T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.716",
+      "consumptionDateTime": "2021-01-14T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.827",
+      "consumptionDateTime": "2021-01-14T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.911",
+      "consumptionDateTime": "2021-01-14T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.581",
+      "consumptionDateTime": "2021-01-14T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.362",
+      "consumptionDateTime": "2021-01-14T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.822",
+      "consumptionDateTime": "2021-01-14T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.996",
+      "consumptionDateTime": "2021-01-14T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.002",
+      "consumptionDateTime": "2021-01-14T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.941",
+      "consumptionDateTime": "2021-01-14T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.776",
+      "consumptionDateTime": "2021-01-14T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.2",
+      "consumptionDateTime": "2021-01-14T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.66",
+      "consumptionDateTime": "2021-01-14T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.011",
+      "consumptionDateTime": "2021-01-14T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.235",
+      "consumptionDateTime": "2021-01-14T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.576",
+      "consumptionDateTime": "2021-01-14T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.006",
+      "consumptionDateTime": "2021-01-14T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.718",
+      "consumptionDateTime": "2021-01-14T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.325",
+      "consumptionDateTime": "2021-01-14T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.573",
+      "consumptionDateTime": "2021-01-14T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.523",
+      "consumptionDateTime": "2021-01-14T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.059",
+      "consumptionDateTime": "2021-01-14T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.901",
+      "consumptionDateTime": "2021-01-14T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.687",
+      "consumptionDateTime": "2021-01-14T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.73",
+      "consumptionDateTime": "2021-01-14T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.413",
+      "consumptionDateTime": "2021-01-15T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.692",
+      "consumptionDateTime": "2021-01-15T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.891",
+      "consumptionDateTime": "2021-01-15T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.869",
+      "consumptionDateTime": "2021-01-15T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.897",
+      "consumptionDateTime": "2021-01-15T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.867",
+      "consumptionDateTime": "2021-01-15T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.975",
+      "consumptionDateTime": "2021-01-15T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.127",
+      "consumptionDateTime": "2021-01-15T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.93",
+      "consumptionDateTime": "2021-01-15T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.932",
+      "consumptionDateTime": "2021-01-15T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.916",
+      "consumptionDateTime": "2021-01-15T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.098",
+      "consumptionDateTime": "2021-01-15T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.243",
+      "consumptionDateTime": "2021-01-15T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.283",
+      "consumptionDateTime": "2021-01-15T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.785",
+      "consumptionDateTime": "2021-01-15T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.884",
+      "consumptionDateTime": "2021-01-15T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.131",
+      "consumptionDateTime": "2021-01-15T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.12",
+      "consumptionDateTime": "2021-01-15T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.611",
+      "consumptionDateTime": "2021-01-15T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.586",
+      "consumptionDateTime": "2021-01-15T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.309",
+      "consumptionDateTime": "2021-01-15T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.298",
+      "consumptionDateTime": "2021-01-15T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.341",
+      "consumptionDateTime": "2021-01-15T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.279",
+      "consumptionDateTime": "2021-01-15T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.294",
+      "consumptionDateTime": "2021-01-16T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.2",
+      "consumptionDateTime": "2021-01-16T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.261",
+      "consumptionDateTime": "2021-01-16T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.33",
+      "consumptionDateTime": "2021-01-16T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.499",
+      "consumptionDateTime": "2021-01-16T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.9",
+      "consumptionDateTime": "2021-01-16T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.893",
+      "consumptionDateTime": "2021-01-16T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.423",
+      "consumptionDateTime": "2021-01-16T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.248",
+      "consumptionDateTime": "2021-01-16T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.221",
+      "consumptionDateTime": "2021-01-16T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.546",
+      "consumptionDateTime": "2021-01-16T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.233",
+      "consumptionDateTime": "2021-01-16T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.933",
+      "consumptionDateTime": "2021-01-16T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.103",
+      "consumptionDateTime": "2021-01-16T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.556",
+      "consumptionDateTime": "2021-01-16T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.327",
+      "consumptionDateTime": "2021-01-16T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.855",
+      "consumptionDateTime": "2021-01-16T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "9.516",
+      "consumptionDateTime": "2021-01-16T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "9.066",
+      "consumptionDateTime": "2021-01-16T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.515",
+      "consumptionDateTime": "2021-01-16T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.545",
+      "consumptionDateTime": "2021-01-16T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.702",
+      "consumptionDateTime": "2021-01-16T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.545",
+      "consumptionDateTime": "2021-01-16T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.257",
+      "consumptionDateTime": "2021-01-16T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.233",
+      "consumptionDateTime": "2021-01-17T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.134",
+      "consumptionDateTime": "2021-01-17T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.153",
+      "consumptionDateTime": "2021-01-17T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.095",
+      "consumptionDateTime": "2021-01-17T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.161",
+      "consumptionDateTime": "2021-01-17T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.116",
+      "consumptionDateTime": "2021-01-17T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.138",
+      "consumptionDateTime": "2021-01-17T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.199",
+      "consumptionDateTime": "2021-01-17T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.238",
+      "consumptionDateTime": "2021-01-17T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.897",
+      "consumptionDateTime": "2021-01-17T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.74",
+      "consumptionDateTime": "2021-01-17T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.404",
+      "consumptionDateTime": "2021-01-17T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.812",
+      "consumptionDateTime": "2021-01-17T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.119",
+      "consumptionDateTime": "2021-01-17T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.312",
+      "consumptionDateTime": "2021-01-17T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.839",
+      "consumptionDateTime": "2021-01-17T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.974",
+      "consumptionDateTime": "2021-01-17T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.277",
+      "consumptionDateTime": "2021-01-17T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.005",
+      "consumptionDateTime": "2021-01-17T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.477",
+      "consumptionDateTime": "2021-01-17T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.85",
+      "consumptionDateTime": "2021-01-17T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.907",
+      "consumptionDateTime": "2021-01-17T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.924",
+      "consumptionDateTime": "2021-01-17T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.898",
+      "consumptionDateTime": "2021-01-17T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.083",
+      "consumptionDateTime": "2021-01-18T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.192",
+      "consumptionDateTime": "2021-01-18T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.807",
+      "consumptionDateTime": "2021-01-18T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.843",
+      "consumptionDateTime": "2021-01-18T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.604",
+      "consumptionDateTime": "2021-01-18T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.436",
+      "consumptionDateTime": "2021-01-18T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.044",
+      "consumptionDateTime": "2021-01-18T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.03",
+      "consumptionDateTime": "2021-01-18T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.333",
+      "consumptionDateTime": "2021-01-18T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.068",
+      "consumptionDateTime": "2021-01-18T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.315",
+      "consumptionDateTime": "2021-01-18T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.576",
+      "consumptionDateTime": "2021-01-18T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.567",
+      "consumptionDateTime": "2021-01-18T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.735",
+      "consumptionDateTime": "2021-01-18T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.111",
+      "consumptionDateTime": "2021-01-18T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.422",
+      "consumptionDateTime": "2021-01-18T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.419",
+      "consumptionDateTime": "2021-01-18T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.053",
+      "consumptionDateTime": "2021-01-18T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.282",
+      "consumptionDateTime": "2021-01-18T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.4",
+      "consumptionDateTime": "2021-01-18T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.557",
+      "consumptionDateTime": "2021-01-18T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.715",
+      "consumptionDateTime": "2021-01-18T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.157",
+      "consumptionDateTime": "2021-01-18T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.639",
+      "consumptionDateTime": "2021-01-18T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.622",
+      "consumptionDateTime": "2021-01-19T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.649",
+      "consumptionDateTime": "2021-01-19T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.707",
+      "consumptionDateTime": "2021-01-19T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.708",
+      "consumptionDateTime": "2021-01-19T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.859",
+      "consumptionDateTime": "2021-01-19T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.576",
+      "consumptionDateTime": "2021-01-19T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.843",
+      "consumptionDateTime": "2021-01-19T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.966",
+      "consumptionDateTime": "2021-01-19T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.778",
+      "consumptionDateTime": "2021-01-19T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.287",
+      "consumptionDateTime": "2021-01-19T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.237",
+      "consumptionDateTime": "2021-01-19T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.161",
+      "consumptionDateTime": "2021-01-19T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.971",
+      "consumptionDateTime": "2021-01-19T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.936",
+      "consumptionDateTime": "2021-01-19T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.761",
+      "consumptionDateTime": "2021-01-19T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.906",
+      "consumptionDateTime": "2021-01-19T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.772",
+      "consumptionDateTime": "2021-01-19T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.557",
+      "consumptionDateTime": "2021-01-19T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.907",
+      "consumptionDateTime": "2021-01-19T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.736",
+      "consumptionDateTime": "2021-01-19T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.507",
+      "consumptionDateTime": "2021-01-19T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.831",
+      "consumptionDateTime": "2021-01-19T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.048",
+      "consumptionDateTime": "2021-01-19T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.964",
+      "consumptionDateTime": "2021-01-19T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.148",
+      "consumptionDateTime": "2021-01-20T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "8.369",
+      "consumptionDateTime": "2021-01-20T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.732",
+      "consumptionDateTime": "2021-01-20T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.815",
+      "consumptionDateTime": "2021-01-20T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.906",
+      "consumptionDateTime": "2021-01-20T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.952",
+      "consumptionDateTime": "2021-01-20T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.552",
+      "consumptionDateTime": "2021-01-20T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.099",
+      "consumptionDateTime": "2021-01-20T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.995",
+      "consumptionDateTime": "2021-01-20T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.102",
+      "consumptionDateTime": "2021-01-20T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.226",
+      "consumptionDateTime": "2021-01-20T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.986",
+      "consumptionDateTime": "2021-01-20T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.376",
+      "consumptionDateTime": "2021-01-20T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.38",
+      "consumptionDateTime": "2021-01-20T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.913",
+      "consumptionDateTime": "2021-01-20T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.103",
+      "consumptionDateTime": "2021-01-20T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.358",
+      "consumptionDateTime": "2021-01-20T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.984",
+      "consumptionDateTime": "2021-01-20T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.018",
+      "consumptionDateTime": "2021-01-20T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.084",
+      "consumptionDateTime": "2021-01-20T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.86",
+      "consumptionDateTime": "2021-01-20T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.121",
+      "consumptionDateTime": "2021-01-20T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.443",
+      "consumptionDateTime": "2021-01-20T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.906",
+      "consumptionDateTime": "2021-01-20T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "7.311",
+      "consumptionDateTime": "2021-01-21T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.931",
+      "consumptionDateTime": "2021-01-21T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.886",
+      "consumptionDateTime": "2021-01-21T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.783",
+      "consumptionDateTime": "2021-01-21T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.832",
+      "consumptionDateTime": "2021-01-21T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.931",
+      "consumptionDateTime": "2021-01-21T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.217",
+      "consumptionDateTime": "2021-01-21T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.491",
+      "consumptionDateTime": "2021-01-21T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.421",
+      "consumptionDateTime": "2021-01-21T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.55",
+      "consumptionDateTime": "2021-01-21T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.252",
+      "consumptionDateTime": "2021-01-21T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.436",
+      "consumptionDateTime": "2021-01-21T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.746",
+      "consumptionDateTime": "2021-01-21T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.16",
+      "consumptionDateTime": "2021-01-21T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.89",
+      "consumptionDateTime": "2021-01-21T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.384",
+      "consumptionDateTime": "2021-01-21T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.254",
+      "consumptionDateTime": "2021-01-21T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.672",
+      "consumptionDateTime": "2021-01-21T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.951",
+      "consumptionDateTime": "2021-01-21T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.862",
+      "consumptionDateTime": "2021-01-21T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.414",
+      "consumptionDateTime": "2021-01-21T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.012",
+      "consumptionDateTime": "2021-01-21T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.956",
+      "consumptionDateTime": "2021-01-21T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.205",
+      "consumptionDateTime": "2021-01-21T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.025",
+      "consumptionDateTime": "2021-01-22T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.941",
+      "consumptionDateTime": "2021-01-22T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.491",
+      "consumptionDateTime": "2021-01-22T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.016",
+      "consumptionDateTime": "2021-01-22T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.988",
+      "consumptionDateTime": "2021-01-22T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.828",
+      "consumptionDateTime": "2021-01-22T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.246",
+      "consumptionDateTime": "2021-01-22T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.427",
+      "consumptionDateTime": "2021-01-22T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.534",
+      "consumptionDateTime": "2021-01-22T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.141",
+      "consumptionDateTime": "2021-01-22T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.406",
+      "consumptionDateTime": "2021-01-22T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.879",
+      "consumptionDateTime": "2021-01-22T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.795",
+      "consumptionDateTime": "2021-01-22T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.059",
+      "consumptionDateTime": "2021-01-22T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.952",
+      "consumptionDateTime": "2021-01-22T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.952",
+      "consumptionDateTime": "2021-01-22T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.442",
+      "consumptionDateTime": "2021-01-22T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.993",
+      "consumptionDateTime": "2021-01-22T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.419",
+      "consumptionDateTime": "2021-01-22T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.493",
+      "consumptionDateTime": "2021-01-22T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.18",
+      "consumptionDateTime": "2021-01-22T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.416",
+      "consumptionDateTime": "2021-01-22T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.769",
+      "consumptionDateTime": "2021-01-22T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.287",
+      "consumptionDateTime": "2021-01-22T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.771",
+      "consumptionDateTime": "2021-01-23T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.534",
+      "consumptionDateTime": "2021-01-23T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.574",
+      "consumptionDateTime": "2021-01-23T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.641",
+      "consumptionDateTime": "2021-01-23T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.991",
+      "consumptionDateTime": "2021-01-23T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.567",
+      "consumptionDateTime": "2021-01-23T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.993",
+      "consumptionDateTime": "2021-01-23T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.561",
+      "consumptionDateTime": "2021-01-23T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.618",
+      "consumptionDateTime": "2021-01-23T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.583",
+      "consumptionDateTime": "2021-01-23T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.677",
+      "consumptionDateTime": "2021-01-23T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.297",
+      "consumptionDateTime": "2021-01-23T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.7",
+      "consumptionDateTime": "2021-01-23T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.727",
+      "consumptionDateTime": "2021-01-23T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.345",
+      "consumptionDateTime": "2021-01-23T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.591",
+      "consumptionDateTime": "2021-01-23T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.296",
+      "consumptionDateTime": "2021-01-23T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.287",
+      "consumptionDateTime": "2021-01-23T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.145",
+      "consumptionDateTime": "2021-01-23T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.197",
+      "consumptionDateTime": "2021-01-23T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.93",
+      "consumptionDateTime": "2021-01-23T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.561",
+      "consumptionDateTime": "2021-01-23T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.248",
+      "consumptionDateTime": "2021-01-23T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.983",
+      "consumptionDateTime": "2021-01-23T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.541",
+      "consumptionDateTime": "2021-01-24T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.687",
+      "consumptionDateTime": "2021-01-24T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.839",
+      "consumptionDateTime": "2021-01-24T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.855",
+      "consumptionDateTime": "2021-01-24T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.591",
+      "consumptionDateTime": "2021-01-24T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.838",
+      "consumptionDateTime": "2021-01-24T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.492",
+      "consumptionDateTime": "2021-01-24T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.548",
+      "consumptionDateTime": "2021-01-24T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.889",
+      "consumptionDateTime": "2021-01-24T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.674",
+      "consumptionDateTime": "2021-01-24T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.176",
+      "consumptionDateTime": "2021-01-24T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.392",
+      "consumptionDateTime": "2021-01-24T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.935",
+      "consumptionDateTime": "2021-01-24T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.067",
+      "consumptionDateTime": "2021-01-24T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.095",
+      "consumptionDateTime": "2021-01-24T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.313",
+      "consumptionDateTime": "2021-01-24T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.834",
+      "consumptionDateTime": "2021-01-24T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.516",
+      "consumptionDateTime": "2021-01-24T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.279",
+      "consumptionDateTime": "2021-01-24T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "10.131",
+      "consumptionDateTime": "2021-01-24T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.101",
+      "consumptionDateTime": "2021-01-24T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.739",
+      "consumptionDateTime": "2021-01-24T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.694",
+      "consumptionDateTime": "2021-01-24T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.312",
+      "consumptionDateTime": "2021-01-24T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.692",
+      "consumptionDateTime": "2021-01-25T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.039",
+      "consumptionDateTime": "2021-01-25T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.611",
+      "consumptionDateTime": "2021-01-25T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.741",
+      "consumptionDateTime": "2021-01-25T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.671",
+      "consumptionDateTime": "2021-01-25T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.057",
+      "consumptionDateTime": "2021-01-25T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.969",
+      "consumptionDateTime": "2021-01-25T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.382",
+      "consumptionDateTime": "2021-01-25T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.51",
+      "consumptionDateTime": "2021-01-25T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.337",
+      "consumptionDateTime": "2021-01-25T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.508",
+      "consumptionDateTime": "2021-01-25T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.336",
+      "consumptionDateTime": "2021-01-25T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.383",
+      "consumptionDateTime": "2021-01-25T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.755",
+      "consumptionDateTime": "2021-01-25T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.93",
+      "consumptionDateTime": "2021-01-25T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.787",
+      "consumptionDateTime": "2021-01-25T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.056",
+      "consumptionDateTime": "2021-01-25T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.329",
+      "consumptionDateTime": "2021-01-25T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.705",
+      "consumptionDateTime": "2021-01-25T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.636",
+      "consumptionDateTime": "2021-01-25T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.723",
+      "consumptionDateTime": "2021-01-25T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.41",
+      "consumptionDateTime": "2021-01-25T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.717",
+      "consumptionDateTime": "2021-01-25T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.385",
+      "consumptionDateTime": "2021-01-25T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.571",
+      "consumptionDateTime": "2021-01-26T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.46",
+      "consumptionDateTime": "2021-01-26T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.537",
+      "consumptionDateTime": "2021-01-26T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.516",
+      "consumptionDateTime": "2021-01-26T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.555",
+      "consumptionDateTime": "2021-01-26T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.632",
+      "consumptionDateTime": "2021-01-26T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.705",
+      "consumptionDateTime": "2021-01-26T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.868",
+      "consumptionDateTime": "2021-01-26T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.15",
+      "consumptionDateTime": "2021-01-26T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.938",
+      "consumptionDateTime": "2021-01-26T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.489",
+      "consumptionDateTime": "2021-01-26T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.728",
+      "consumptionDateTime": "2021-01-26T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.385",
+      "consumptionDateTime": "2021-01-26T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.871",
+      "consumptionDateTime": "2021-01-26T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.639",
+      "consumptionDateTime": "2021-01-26T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.996",
+      "consumptionDateTime": "2021-01-26T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.215",
+      "consumptionDateTime": "2021-01-26T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.853",
+      "consumptionDateTime": "2021-01-26T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.492",
+      "consumptionDateTime": "2021-01-26T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.241",
+      "consumptionDateTime": "2021-01-26T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.759",
+      "consumptionDateTime": "2021-01-26T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.487",
+      "consumptionDateTime": "2021-01-26T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.459",
+      "consumptionDateTime": "2021-01-26T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.646",
+      "consumptionDateTime": "2021-01-26T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.733",
+      "consumptionDateTime": "2021-01-27T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.702",
+      "consumptionDateTime": "2021-01-27T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.082",
+      "consumptionDateTime": "2021-01-27T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.654",
+      "consumptionDateTime": "2021-01-27T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.981",
+      "consumptionDateTime": "2021-01-27T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.955",
+      "consumptionDateTime": "2021-01-27T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.305",
+      "consumptionDateTime": "2021-01-27T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.564",
+      "consumptionDateTime": "2021-01-27T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.917",
+      "consumptionDateTime": "2021-01-27T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.336",
+      "consumptionDateTime": "2021-01-27T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.153",
+      "consumptionDateTime": "2021-01-27T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.598",
+      "consumptionDateTime": "2021-01-27T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.787",
+      "consumptionDateTime": "2021-01-27T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.924",
+      "consumptionDateTime": "2021-01-27T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.653",
+      "consumptionDateTime": "2021-01-27T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.44",
+      "consumptionDateTime": "2021-01-27T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.633",
+      "consumptionDateTime": "2021-01-27T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.571",
+      "consumptionDateTime": "2021-01-27T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.426",
+      "consumptionDateTime": "2021-01-27T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.323",
+      "consumptionDateTime": "2021-01-27T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.376",
+      "consumptionDateTime": "2021-01-27T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.382",
+      "consumptionDateTime": "2021-01-27T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.445",
+      "consumptionDateTime": "2021-01-27T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.602",
+      "consumptionDateTime": "2021-01-27T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.505",
+      "consumptionDateTime": "2021-01-28T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.574",
+      "consumptionDateTime": "2021-01-28T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.569",
+      "consumptionDateTime": "2021-01-28T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.569",
+      "consumptionDateTime": "2021-01-28T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.6",
+      "consumptionDateTime": "2021-01-28T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.561",
+      "consumptionDateTime": "2021-01-28T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.938",
+      "consumptionDateTime": "2021-01-28T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.891",
+      "consumptionDateTime": "2021-01-28T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.518",
+      "consumptionDateTime": "2021-01-28T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.705",
+      "consumptionDateTime": "2021-01-28T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3",
+      "consumptionDateTime": "2021-01-28T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.12",
+      "consumptionDateTime": "2021-01-28T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.881",
+      "consumptionDateTime": "2021-01-28T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.027",
+      "consumptionDateTime": "2021-01-28T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.138",
+      "consumptionDateTime": "2021-01-28T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.651",
+      "consumptionDateTime": "2021-01-28T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.607",
+      "consumptionDateTime": "2021-01-28T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.812",
+      "consumptionDateTime": "2021-01-28T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.519",
+      "consumptionDateTime": "2021-01-28T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.487",
+      "consumptionDateTime": "2021-01-28T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.673",
+      "consumptionDateTime": "2021-01-28T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.84",
+      "consumptionDateTime": "2021-01-28T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.994",
+      "consumptionDateTime": "2021-01-28T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.677",
+      "consumptionDateTime": "2021-01-28T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.742",
+      "consumptionDateTime": "2021-01-29T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.568",
+      "consumptionDateTime": "2021-01-29T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.772",
+      "consumptionDateTime": "2021-01-29T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.453",
+      "consumptionDateTime": "2021-01-29T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.611",
+      "consumptionDateTime": "2021-01-29T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.641",
+      "consumptionDateTime": "2021-01-29T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.092",
+      "consumptionDateTime": "2021-01-29T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.974",
+      "consumptionDateTime": "2021-01-29T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.91",
+      "consumptionDateTime": "2021-01-29T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.148",
+      "consumptionDateTime": "2021-01-29T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.186",
+      "consumptionDateTime": "2021-01-29T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.523",
+      "consumptionDateTime": "2021-01-29T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.513",
+      "consumptionDateTime": "2021-01-29T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.948",
+      "consumptionDateTime": "2021-01-29T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.536",
+      "consumptionDateTime": "2021-01-29T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.475",
+      "consumptionDateTime": "2021-01-29T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.714",
+      "consumptionDateTime": "2021-01-29T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.537",
+      "consumptionDateTime": "2021-01-29T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.6",
+      "consumptionDateTime": "2021-01-29T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.73",
+      "consumptionDateTime": "2021-01-29T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.119",
+      "consumptionDateTime": "2021-01-29T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.5",
+      "consumptionDateTime": "2021-01-29T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.299",
+      "consumptionDateTime": "2021-01-29T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.813",
+      "consumptionDateTime": "2021-01-29T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.657",
+      "consumptionDateTime": "2021-01-30T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.759",
+      "consumptionDateTime": "2021-01-30T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.164",
+      "consumptionDateTime": "2021-01-30T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.685",
+      "consumptionDateTime": "2021-01-30T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.719",
+      "consumptionDateTime": "2021-01-30T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.645",
+      "consumptionDateTime": "2021-01-30T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.678",
+      "consumptionDateTime": "2021-01-30T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.756",
+      "consumptionDateTime": "2021-01-30T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.494",
+      "consumptionDateTime": "2021-01-30T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.669",
+      "consumptionDateTime": "2021-01-30T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.751",
+      "consumptionDateTime": "2021-01-30T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.555",
+      "consumptionDateTime": "2021-01-30T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.088",
+      "consumptionDateTime": "2021-01-30T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.565",
+      "consumptionDateTime": "2021-01-30T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.303",
+      "consumptionDateTime": "2021-01-30T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.757",
+      "consumptionDateTime": "2021-01-30T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.859",
+      "consumptionDateTime": "2021-01-30T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.854",
+      "consumptionDateTime": "2021-01-30T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.459",
+      "consumptionDateTime": "2021-01-30T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.128",
+      "consumptionDateTime": "2021-01-30T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.398",
+      "consumptionDateTime": "2021-01-30T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.279",
+      "consumptionDateTime": "2021-01-30T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.929",
+      "consumptionDateTime": "2021-01-30T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.768",
+      "consumptionDateTime": "2021-01-30T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.54",
+      "consumptionDateTime": "2021-01-31T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.729",
+      "consumptionDateTime": "2021-01-31T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.964",
+      "consumptionDateTime": "2021-01-31T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.181",
+      "consumptionDateTime": "2021-01-31T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.765",
+      "consumptionDateTime": "2021-01-31T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.848",
+      "consumptionDateTime": "2021-01-31T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.964",
+      "consumptionDateTime": "2021-01-31T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.777",
+      "consumptionDateTime": "2021-01-31T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "6.358",
+      "consumptionDateTime": "2021-01-31T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.046",
+      "consumptionDateTime": "2021-01-31T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.332",
+      "consumptionDateTime": "2021-01-31T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.979",
+      "consumptionDateTime": "2021-01-31T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.535",
+      "consumptionDateTime": "2021-01-31T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.873",
+      "consumptionDateTime": "2021-01-31T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.206",
+      "consumptionDateTime": "2021-01-31T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.741",
+      "consumptionDateTime": "2021-01-31T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.313",
+      "consumptionDateTime": "2021-01-31T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.316",
+      "consumptionDateTime": "2021-01-31T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.698",
+      "consumptionDateTime": "2021-01-31T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.403",
+      "consumptionDateTime": "2021-01-31T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.182",
+      "consumptionDateTime": "2021-01-31T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.778",
+      "consumptionDateTime": "2021-01-31T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.667",
+      "consumptionDateTime": "2021-01-31T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.148",
+      "consumptionDateTime": "2021-01-31T23:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.918",
+      "consumptionDateTime": "2021-02-01T00:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.933",
+      "consumptionDateTime": "2021-02-01T01:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.936",
+      "consumptionDateTime": "2021-02-01T02:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.781",
+      "consumptionDateTime": "2021-02-01T03:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.816",
+      "consumptionDateTime": "2021-02-01T04:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.748",
+      "consumptionDateTime": "2021-02-01T05:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.217",
+      "consumptionDateTime": "2021-02-01T06:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "5.737",
+      "consumptionDateTime": "2021-02-01T07:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.185",
+      "consumptionDateTime": "2021-02-01T08:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.658",
+      "consumptionDateTime": "2021-02-01T09:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.986",
+      "consumptionDateTime": "2021-02-01T10:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.878",
+      "consumptionDateTime": "2021-02-01T11:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.969",
+      "consumptionDateTime": "2021-02-01T12:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.935",
+      "consumptionDateTime": "2021-02-01T13:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "1.397",
+      "consumptionDateTime": "2021-02-01T14:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.057",
+      "consumptionDateTime": "2021-02-01T15:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.16",
+      "consumptionDateTime": "2021-02-01T16:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.786",
+      "consumptionDateTime": "2021-02-01T17:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "2.661",
+      "consumptionDateTime": "2021-02-01T18:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.27",
+      "consumptionDateTime": "2021-02-01T19:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.065",
+      "consumptionDateTime": "2021-02-01T20:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "4.336",
+      "consumptionDateTime": "2021-02-01T21:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.31",
+      "consumptionDateTime": "2021-02-01T22:00:00+02:00"
+    },
+    {
+      "consumptionQuantity": "3.673",
+      "consumptionDateTime": "2021-02-01T23:00:00+02:00"
+    }
+  ],
+  "solar_data": {
+    "installationMethod": "Gable roof",
+    "space": "80",
+    "roofAngle": 15,
+    "direction": "South"
+  },
+  "heat_pump_data": {
+    "heatableArea": "250",
+    "heatingSystem": "Wood",
+    "isFourTimesHeatableAreaAvailable": "true"
+  },
+  "vehicle_data": {
+    "typeOfCar": "Internal Combustion Engine",
+    "avgFuelConsumption": "6.5",
+    "yearlyMileage": "15000",
+    "typeOfFuel": "LPG",
+    "hasDedicatedChargerAtHome": "No"
+  },
+  "storage_data": {
+    "hasStorageSolution": "No",
+    "hasSpaceForStorage": "Yes"
+  },
+  "electricity_pkg_data": {
+    "currentPackage": "SPOT",
+    "isProductGreen": "false",
+    "priceTypeCode": "INTERVAL",
+    "floatingMargin": "0.0008",
+    "floatingMarginVAT": "0.0002",
+    "fixFee": "0",
+    "fixFeeVAT": "0.0000"
+  }
+}
